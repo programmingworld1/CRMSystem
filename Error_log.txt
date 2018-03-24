@@ -1,0 +1,78 @@
+Message : Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: NO)
+   bij MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   bij MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   bij MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   bij MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   bij MySql.Data.MySqlClient.NativeDriver.Open()
+   bij MySql.Data.MySqlClient.Driver.Open()
+   bij MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   bij MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   bij MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   bij MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   bij MySql.Data.MySqlClient.MySqlConnection.Open()
+   bij crm_systeem.Database.LoginController.VerifyLogin(Login Login) in C:\Users\Andre\Desktop\crm_systeem\crm_systeem\Database\LoginController.cs:regel 24
+Date : 21-6-2016 17:48:14
+
+Message : Unable to connect to any of the specified MySQL hosts.
+   bij MySql.Data.MySqlClient.NativeDriver.Open()
+   bij MySql.Data.MySqlClient.Driver.Open()
+   bij MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   bij MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   bij MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   bij MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   bij MySql.Data.MySqlClient.MySqlConnection.Open()
+   bij crm_systeem.Database.LoginController.VerifyLogin(Login Login) in E:\MijnItems\Game\crm_systeem\crm_systeem\Database\LoginController.cs:regel 24
+Date : 29-6-2017 19:47:52
+
+Message : Unable to connect to any of the specified MySQL hosts.
+   bij MySql.Data.MySqlClient.NativeDriver.Open()
+   bij MySql.Data.MySqlClient.Driver.Open()
+   bij MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   bij MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   bij MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   bij MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   bij MySql.Data.MySqlClient.MySqlConnection.Open()
+   bij crm_systeem.Database.LoginController.VerifyLogin(Login Login) in E:\MijnItems\Game\crm_systeem\crm_systeem\Database\LoginController.cs:regel 24
+Date : 29-6-2017 19:47:58
+
+Message : Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: NO)
+   bij MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   bij MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   bij MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   bij MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   bij MySql.Data.MySqlClient.NativeDriver.Open()
+   bij MySql.Data.MySqlClient.Driver.Open()
+   bij MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   bij MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   bij MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   bij MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   bij MySql.Data.MySqlClient.MySqlConnection.Open()
+   bij crm_systeem.Database.LoginController.VerifyLogin(Login Login) in E:\MijnItems\Game\crm_systeem\crm_systeem\Database\LoginController.cs:regel 24
+Date : 29-6-2017 23:41:48
+
+Message : Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: NO)
+   bij MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   bij MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   bij MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   bij MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   bij MySql.Data.MySqlClient.NativeDriver.Open()
+   bij MySql.Data.MySqlClient.Driver.Open()
+   bij MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   bij MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   bij MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   bij MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   bij MySql.Data.MySqlClient.MySqlConnection.Open()
+   bij crm_systeem.Database.LoginController.VerifyLogin(Login Login) in E:\MijnItems\Game\crm_systeem\crm_systeem\Database\LoginController.cs:regel 24
+Date : 29-6-2017 23:41:52
+
+Message : Unable to connect to any of the specified MySQL hosts.
+   bij MySql.Data.MySqlClient.NativeDriver.Open()
+   bij MySql.Data.MySqlClient.Driver.Open()
+   bij MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   bij MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   bij MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   bij MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   bij MySql.Data.MySqlClient.MySqlConnection.Open()
+   bij crm_systeem.Database.LoginController.VerifyLogin(Login Login) in E:\MijnItems\Programming\c sharp\projecten\Blok4Project_Crm_Systeem\crm_systeem\Database\LoginController.cs:regel 24
+Date : 24-3-2018 23:45:20
+
